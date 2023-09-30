@@ -1,4 +1,4 @@
-![bob](police.svg)
+![bob](police_colored.svg)
 
 ##
 <div align="center">
